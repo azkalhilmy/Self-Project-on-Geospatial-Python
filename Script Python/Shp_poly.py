@@ -17,7 +17,7 @@ def write_osmium_poly(gdf, filename):
                     f.write("END\n")
         f.write("END\n")
 
-#Path input/output
+#input/output
 input_shp = "/mnt/d/ProjectOSM/Raw/Semarang.shp"
 output_poly = "/mnt/d/ProjectOSM/working/Semarang.poly"
 
